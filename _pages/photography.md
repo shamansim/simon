@@ -1,7 +1,7 @@
 ---
 permalink: /photography/
 title: "Photography"
-excerpt: "I consider photography as a quest for the unlikely."
+excerpt: "I consider photography as a quest for singularity."
 layout: splash
 header:
   overlay_image: /assets/images/header-photography.jpg
@@ -9,7 +9,7 @@ header:
   cta_label: "Visit my Instagram account"
   cta_url: "https://www.instagram.com/shamansim/"
   caption: "All rights reserved"
-modified: 2017-03-25T11:51:00
+modified: 2018-05-19T19:18:00
 ---
 
 {% include base_path %}
@@ -20,7 +20,7 @@ Here is how I try to consider and practice photography. It may be considered as 
 
 Photography is a way to capture the photons at certain spacetime points. Everything is relative, every moment is unique. My aim is to isolate and highlight these singular moments that occur in my daily life. I try to minimize the introduction of *artificial* photons by not using softwares except from the one inherent to digital photography (demosaicing) and the tools also available with film photography development and print.
 
-To this aim, I practice film and digital photography. I have a tendency to prefer black and white photographs (which is what we can only reliably capture anyway). I like to play with the *natural* patterns, geometry, contrasts, brightness, ..., while minimizing post-processing of the photos.
+To this aim, I practice film and digital photography. I have a tendency to prefer black and white photographs. I like to play with the *natural* patterns, geometry, contrasts, brightness, ..., while minimizing post-processing of the photos.
 
 I consider photography as a quest for singularity.
 
