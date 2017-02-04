@@ -2,10 +2,6 @@
 permalink: /docs/cv/
 title: "Curriculum"
 excerpt: "About me, my competences and experience."
-layout: single
-header:
-  overlay_color: "#333"
-  caption: "Caption test"
 sidebar:
   nav : "docs"
 modified: 2017-02-04T19:24:00
