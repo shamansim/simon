@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "About"
-    url: /about
-  - title: "Posts"
-    url: /posts
+  - title: "CV"
+    url: /about/
+  - title: "Biology"
+    url: /biology/
   - title: "Photography"
     url: http://photography.besson-girard.fr
   - title: "Music"
