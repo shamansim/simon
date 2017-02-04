@@ -17,7 +17,7 @@ main:
 
 # cv
 cv:
-  - title: "title 1"
+  - title: title 1
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
@@ -28,7 +28,7 @@ cv:
       - title: "Upgrading"
         url: /docs/upgrading/
         
-   - title: "title 2"
+   - title: title 2
      children:
        - title: "addas"
          url: /dsdsds/
