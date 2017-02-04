@@ -2,11 +2,6 @@
 main:
   - title: "About"
     url: /about
-    children:
-    	- title: "Brief"
-    	  url: /brief
-    	- title: "Complete"
-    	  url: /complete
   - title: "Posts"
     url: /posts
   - title: "Photography"
