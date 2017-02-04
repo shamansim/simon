@@ -7,7 +7,7 @@ header:
   overlay_color: "#333"
   caption: "Caption test"
 sidebar:
-  nav : "cv"
+  nav : "docs"
 modified: 2017-02-04T19:24:00
 ---
 
