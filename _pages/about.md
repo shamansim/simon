@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layout: splash
+header:
+  overlay_color: "#333"
+  caption: "Caption test"
+author_profile: true
 modified: 2017-02-04T19:24:00
 ---
 
