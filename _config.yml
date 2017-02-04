@@ -6,28 +6,28 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "en-US"
 title                    : "Fancy title"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Simon Besson-Girard"
-description              : "description"
+description              : "PhD student in neurobiology at the ISD, Bioinformatician, Photographer, Musician"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : # shamansim/simon e.g. "mmistakes/minimal-mistakes"
+teaser                   : # "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "simon-2" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" #"light"
+    colorscheme          : "light" #"dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
@@ -57,7 +57,7 @@ yandex_site_verification :
 twitter:
   username               : SimonBesson
 facebook:
-  username               :
+  username               : simon.bessongirard
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -174,7 +174,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
