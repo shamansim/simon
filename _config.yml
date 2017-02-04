@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "SimonBesson"
+  username               : SimonBesson
 facebook:
   username               :
   app_id                 :
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        : "https://www.instagram.com/shamansim/"
   lastfm           :
-  linkedin         : "
+  linkedin         : "https://www.linkedin.com/in/simon-besson-girard-70b373129/"
   pinterest        :
   soundcloud       : "https://soundcloud.com/subiji"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
