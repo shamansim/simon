@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Fancy title"
 title_separator          : "-"
 name                     : "Simon Besson-Girard"
-description              : "PhD student in neurobiology, Bioinformatician, Amateur photographer"
+description              : "description"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Simon Besson-Girard"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "PhD student in neurobiology, Bioinformatician, Photographer, Musician."
   location         : "Munich, Germany"
   email            : "simon@besson-girard.fr"
   uri              :
