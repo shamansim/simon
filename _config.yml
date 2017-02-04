@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Fancy title"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Simon Besson-Girard"
+description              : "PhD student in neurobiology, Bioinformatician, Amateur photographer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -27,7 +27,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light" #(default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "SimonBesson"
 facebook:
   username               :
   app_id                 :
@@ -77,26 +77,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Simon Besson-Girard"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Munich, Germany"
+  email            : "simon@besson-girard.fr"
   uri              :
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/shamansim/"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/shamansim"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/shamansim/"
   lastfm           :
-  linkedin         :
+  linkedin         : "
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://soundcloud.com/subiji"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
