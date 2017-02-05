@@ -4,9 +4,8 @@ title: "Music"
 excerpt: "My name is Subiji"
 layout: splash
 header:
-  overlay_color: "#333"
-  #overlay_image: /assets/images/header-music.jpg
-  #overlay_filter: 0.5
+  overlay_image: /assets/images/header-music.jpg
+  overlay_filter: 0.5
   cta_label: "Visit my soundcloud profile"
   cta_url: https://soundcloud.com/subiji
   caption: "Subiji logo"

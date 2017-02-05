@@ -4,9 +4,8 @@ title: "Photography"
 excerpt: "I use the available light to reveal the shapes"
 layout: splash
 header:
-  overlay_color: "#333"
-  #overlay_image: /assets/images/header-photography.jpg
-  #overlay_filter: 0.5
+  overlay_image: /assets/images/header-photography.jpg
+  overlay_filter: 0.5
   cta_label: "Visit my official photography website"
   cta_url: "http://photography.besson-girard.fr"
   caption: "All rights reserved"
