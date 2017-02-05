@@ -1,7 +1,7 @@
 ---
 permalink: /dgt/
-title: "RIKEN - CLST - GMT Unit (2016 - 6 months internship)"
-excerpt: "Center for the Life Science Technologies (Yokohama, Japan)"
+title: "RIKEN - CLST (2016)"
+excerpt: "Center for the Life Science Technologies - GMT Unit (6 months internship - Yokohama, Japan)"
 layout: single
 header:
   overlay_image: /assets/images/header-dgt.jpg
