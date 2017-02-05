@@ -5,7 +5,7 @@ excerpt: "Systems Neuroscience group - Institute for Stroke and Dementia Researc
 layout: single
 header:
   overlay_image: /assets/images/header-phd.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.7
   cta_label: "Visit the research group website"
   cta_url: "http://research.isd-muc.de/Systemsneuroscience.html"
   caption: "Photo credit: [**ISD**](http://research.isd-muc.de/Systemsneuroscience.html)"
