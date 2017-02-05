@@ -2,8 +2,6 @@
 permalink: /docs/cv/
 title: "Curriculum"
 excerpt: "About me, my competences and experience."
-sidebar:
-  nav : "docs"
 modified: 2017-02-04T19:24:00
 ---
 
