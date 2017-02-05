@@ -1,0 +1,8 @@
+# /_data/authors.yml
+
+Simon Besson-Girard:
+  name: "Simon Besson-Girard"
+  uri: "simon.besson-girard.fr"
+  email: "simon@besson-girard.fr"
+  bio: ""
+  avatar: "/assets/images/bio-photo.jpg"
