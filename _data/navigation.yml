@@ -45,7 +45,7 @@ biology:
 cv:
   - title: Education
     children:
-      - title: "Philosophiae Doctor (ongoing)"
+      - title: "Philosophiae Doctor"
         url: /phd/
       - title: "Magister Scientiae"
         url: /msc/
