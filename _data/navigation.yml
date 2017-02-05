@@ -45,30 +45,30 @@ biology:
 cv:
   - title: Education
     children:
-      - title: "PhD in Systems Neuroscience (ongoing)"
+      - title: "Philosophiae Doctor (ongoing)"
         url: /phd/
-      - title: "M.Sc. in Mathematics and Computer Sciences for biology"
+      - title: "Magister Scientiae"
         url: /msc/
-      - title: "B.Sc. in Biology - specialized in bioinformatics/biostatistics"
+      - title: "Baccalaureus Scientia"
         url: /bsc/
       - title: "A long-time ago"
         url: /ago/
 
   - title: Professional experience
     children:
-      - title: "KUM/LMU - ISD (Munich, Germany)"
+      - title: "KUM/LMU - ISD"
         url: /isd/
-      - title: "RIKEN - CLST - DGT (Yokohama, Japan)"
+      - title: "RIKEN - CLST - DGT"
         url: /dgt/
-      - title: "Insa-Lyon - MAP Laboratory (Lyon, France)"
+      - title: "Insa-Lyon - MAP Laboratory"
         url: /map/
-      - title: "Novadiscovery (Lyon, France)"
+      - title: "Novadiscovery"
         url: /nova/
 
   - title: Skills
     children:
       - title: "Languages"
-        url: /langues/
+        url: /languages/
       - title: "Computational"
         url: /computational/
 
