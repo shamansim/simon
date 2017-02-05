@@ -51,8 +51,8 @@ cv:
         url: /msc/
       - title: "Baccalaureus Scientia"
         url: /bsc/
-      - title: "A long-time ago"
-        url: /ago/
+#      - title: "A long-time ago"
+#        url: /ago/
 
   - title: Professional experience
     children:
