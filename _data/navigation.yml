@@ -27,10 +27,10 @@ main:
     url: /biology/
   
   - title: "Photography"
-    url: http://photography.besson-girard.fr
+    url: /photography/
   
   - title: "Music"
-    url: https://soundcloud.com/subiji
+    url: /music/
 
 # documentation links
 docs:
