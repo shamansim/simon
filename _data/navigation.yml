@@ -58,7 +58,7 @@ cv:
     children:
       - title: "KUM/LMU - ISD"
         url: /phd/
-      - title: "RIKEN - CLST - DGT"
+      - title: "RIKEN - CLST - GMT"
         url: /dgt/
       - title: "Insa-Lyon - MAP Laboratory"
         url: /map/
