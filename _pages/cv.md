@@ -14,4 +14,4 @@ modified: 2017-02-04T19:24:00
 
 {% include base_path %}
 
-Minimal Mistakes is a flexible two-column Jekyll theme.
+Site under construction.

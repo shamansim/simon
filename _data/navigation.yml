@@ -5,12 +5,15 @@ main:
   
   - title: "Biology"
     url: /biology/
-  
+
   - title: "Photography"
     url: /photography/
   
   - title: "Music"
     url: /music/
+
+  - title: "Japan"
+    url: /japan/
 
 # biology links
 biology:
