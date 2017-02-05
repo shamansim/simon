@@ -20,61 +20,61 @@ biology:
   - title: Topic 1
     children:
       - title: "Sub-topic 1"
-        url: /biology/
+        url: /t1st1/
       - title: "Sub-topic 2"
-        url: /biology/
+        url: /t1st2/
       - title: "Sub-topic 3"
-        url: /biology/
+        url: /t1st3/
       - title: "Sub-topic 4"
-        url: /biology/
+        url: /t1st4/
 
   - title: Topic 2
     children:
       - title: "Sub-topic 1"
-        url: /biology/
+        url: /t2st1/
       - title: "Sub-topic 2"
-        url: /biology/
+        url: /t2st2/
       - title: "Sub-topic 3"
-        url: /biology/
+        url: /t2st3/
       - title: "Sub-topic 4"
-        url: /biology/
+        url: /t2st4/
       - title: "Sub-topic 5"
-        url: /biology/
+        url: /t2st5/
 
 # cv links
 cv:
   - title: Education
     children:
       - title: "PhD in Systems Neuroscience (ongoing)"
-        url: /cv/
+        url: /phd/
       - title: "M.Sc. in Mathematics and Computer Sciences for biology"
-        url: /cv/
+        url: /msc/
       - title: "B.Sc. in Biology - specialized in bioinformatics/biostatistics"
-        url: /cv/
+        url: /bsc/
       - title: "A long-time ago"
-        url: /cv/
+        url: /ago/
 
   - title: Professional experience
     children:
       - title: "KUM/LMU - ISD (Munich, Germany)"
-        url: /cv/
+        url: /isd/
       - title: "RIKEN - CLST - DGT (Yokohama, Japan)"
-        url: /cv/
+        url: /dgt/
       - title: "Insa-Lyon - MAP Laboratory (Lyon, France)"
-        url: /cv/
+        url: /map/
       - title: "Novadiscovery (Lyon, France)"
-        url: /cv/
+        url: /nova/
 
   - title: Skills
     children:
       - title: "Languages"
-        url: /cv/
+        url: /langues/
       - title: "Computational"
-        url: /cv/
+        url: /computational/
 
   - title: Extra-curricular activities
     children:
       - title: "Photography"
-        url: /cv/
+        url: /photo/
       - title: "Music"
-        url: /cv/
+        url: /zik/
