@@ -21,7 +21,7 @@ foo:
 # main links
 main:
   - title: "CV"
-    url: /docs/cv/
+    url: /cv/
   
   - title: "Biology"
     url: /biology/
