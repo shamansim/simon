@@ -17,61 +17,64 @@ main:
 
 # biology links
 biology:
-  - title: Getting Started
+  - title: Topic 1
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "Sub-topic 1"
+        url: /biology/
+      - title: "Sub-topic 2"
+        url: /biology/
+      - title: "Sub-topic 3"
+        url: /biology/
+      - title: "Sub-topic 4"
+        url: /biology/
 
-  - title: Customization
+  - title: Topic 2
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "Sub-topic 1"
+        url: /biology/
+      - title: "Sub-topic 2"
+        url: /biology/
+      - title: "Sub-topic 3"
+        url: /biology/
+      - title: "Sub-topic 4"
+        url: /biology/
+      - title: "Sub-topic 5"
+        url: /biology/
 
 # cv links
 cv:
-  - title: Content
+  - title: Education
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+      - title: "PhD in Systems Neuroscience (ongoing)"
+        url: /cv/
+      - title: "M.Sc. in Mathematics and Computer Sciences for biology"
+        url: /cv/
+      - title: "B.Sc. in Biology - specialized in bioinformatics/biostatistics"
+        url: /cv/
+      - title: "A long-time ago"
+	url: /cv/
 
-  - title: Extras
+  - title: Professional experience
     children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "KUM/LMU - ISD (Munich, Germany)"
+	url: /cv/
+      - title: "RIKEN - CLST - DGT (Yokohama, Japan)"
+        url: /cv/
+      - title: "Insa-Lyon - MAP Laboratory (Lyon, France)"
+        url: /cv/
+      - title: "Novadiscovery (Lyon, France)"
+	url: /cv/
 
-  - title: Meta
+  - title: Skills
     children:
-      - title: "History"
-        url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
+      - title: "Languages"
+        url: /cv/
+      - title: "Computational"
+        url: /cv/
+
+  - title: Extra-curricular activities
+    children:
+      - title: "Photography"
+	url: /cv/
+      - title: "Music"
+	url: /cv/
