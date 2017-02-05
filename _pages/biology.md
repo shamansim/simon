@@ -3,6 +3,8 @@ permalink: /biology/
 title: "Biology"
 excerpt: "My interests and experience in the biology field"
 layout: single
+header:
+  overlay_color: "#333"
 sidebar:
   nav: "docs"
 modified: 2017-02-04T19:24:00
