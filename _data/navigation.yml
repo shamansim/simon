@@ -52,18 +52,18 @@ cv:
       - title: "B.Sc. in Biology - specialized in bioinformatics/biostatistics"
         url: /cv/
       - title: "A long-time ago"
-	url: /cv/
+        url: /cv/
 
   - title: Professional experience
     children:
       - title: "KUM/LMU - ISD (Munich, Germany)"
-	url: /cv/
+        url: /cv/
       - title: "RIKEN - CLST - DGT (Yokohama, Japan)"
         url: /cv/
       - title: "Insa-Lyon - MAP Laboratory (Lyon, France)"
         url: /cv/
       - title: "Novadiscovery (Lyon, France)"
-	url: /cv/
+        url: /cv/
 
   - title: Skills
     children:
@@ -75,6 +75,6 @@ cv:
   - title: Extra-curricular activities
     children:
       - title: "Photography"
-	url: /cv/
+        url: /cv/
       - title: "Music"
-	url: /cv/
+        url: /cv/
