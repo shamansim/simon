@@ -1,7 +1,8 @@
+
 ---
 permalink: /music/
 title: "Music"
-excerpt: "My name is Subiji"
+excerpt: "Hi, my name is Subiji."
 layout: splash
 header:
   overlay_image: /assets/images/header-music.jpg
