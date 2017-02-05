@@ -1,7 +1,7 @@
 ---
 permalink: /map/
-title: "Insa-Lyon - MAP Laboratory (2015)"
-excerpt: "Chromatin and Regulation of bacterial Pathogenesis Team (2 months internship - Lyon, France)"
+title: "Insa-Lyon - MAP Lab (2015)"
+excerpt: "Microbiology, Adaptation and Pathogeny Laboratory - Chromatin and Regulation of bacterial Pathogenesis Team (2 months internship - Lyon, France)"
 layout: single
 header:
   overlay_image: /assets/images/header-map.jpg
