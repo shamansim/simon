@@ -9,7 +9,7 @@ header:
   cta_label: "Visit my official photography website (under construction)"
   cta_url: "http://photography.besson-girard.fr"
   caption: "All rights reserved"
-modified: 2017-02-04T19:24:00
+modified: 2017-03-25T11:51:00
 ---
 
 {% include base_path %}
