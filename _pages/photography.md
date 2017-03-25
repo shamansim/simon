@@ -6,19 +6,13 @@ layout: splash
 header:
   overlay_image: /assets/images/header-photography.jpg
   overlay_filter: 0.5
-  cta_label: "Visit my official photography website (under construction)"
-  cta_url: "http://photography.besson-girard.fr"
+  cta_label: "Visit my Instagram account"
+  cta_url: "https://www.instagram.com/shamansim/"
   caption: "All rights reserved"
 modified: 2017-03-25T11:51:00
 ---
 
 {% include base_path %}
-
-# Instagram 
-
-Here is my instagram account @shamansim
-
-[https://www.instagram.com/shamansim/](https://www.instagram.com/shamansim/)
 
 # Photo exhibitions
 
