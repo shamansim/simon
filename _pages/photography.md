@@ -24,12 +24,20 @@ Here is my instagram account @shamansim
 
 ## 2017
 
-From 20th March 2017 to 8th April 2017, "Le Hibou de Honshû"
+![](http://www.mjc-amberieu.org/images/BIENNALE-2017-DIFFUSION---copie.jpg)
 
-[http://www.mjc-amberieu.org/images/flyers-japon.compressed.pdf](http://www.mjc-amberieu.org/images/flyers-japon.compressed.pdf)
+__*Date:*__ From 20th March 2017 to 8th April 2017, "Le Hibou de Honshû"
+
+__*Location:*__ MJC Ambérieu Maison pour Tous, Place Jules Ferry, 01500 Ambérieu-en-Bugey [Google Map](https://goo.gl/maps/wPJTVvMFXXw)
+
+__*Information:*__ [http://www.mjc-amberieu.org/images/flyers-japon.compressed.pdf](http://www.mjc-amberieu.org/images/flyers-japon.compressed.pdf)
 
 ## 2016
 
-From 5th November 2016 to 20th December 2016, "Le Hibou de Honshû"
+![](http://espacelyonjapon.com/assets/images/Nouvelles/Affiche_SimonBesson-Girard-250px.jpg)
 
-[http://www.espacelyonjapon.com/en/news/expo-le-hibou-de-honshu.html](http://www.espacelyonjapon.com/en/news/expo-le-hibou-de-honshu.html)
+__*Date:*__ From 5th November 2016 to 20th December 2016, "Le Hibou de Honshû"
+
+__*Location:*__ Espace Lyon-Japon, 16 Rue Bellecombe, 69006 Lyon [Google Map](https://goo.gl/maps/WiwvjuL427w)
+
+__*Information:*__ [http://www.espacelyonjapon.com/en/news/expo-le-hibou-de-honshu.html](http://www.espacelyonjapon.com/en/news/expo-le-hibou-de-honshu.html)
