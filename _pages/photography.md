@@ -1,7 +1,7 @@
 ---
 permalink: /photography/
 title: "Photography"
-excerpt: "I consider photography as a quest of the unlikely."
+excerpt: "I consider photography as a quest for the unlikely."
 layout: splash
 header:
   overlay_image: /assets/images/header-photography.jpg
@@ -22,7 +22,7 @@ Photography is a way to capture the photons at certain spacetime points. My aim 
 
 To this aim, I practice film and digital photography. I have a tendency to prefer black and white photographs (which is what we can only reliably capture anyway). I like to play with the *natural* patterns, geometry, contrasts, brightness,..., while minimizing post-processing of the photos.
 
-I consider photography as a quest of the unlikely.
+I consider photography as a quest for the unlikely.
 
 # Photo exhibitions
 
