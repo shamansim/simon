@@ -14,6 +14,16 @@ modified: 2017-03-25T11:51:00
 
 {% include base_path %}
 
+# Philosophy
+
+Here is how I try to consider and practice photography. It may be considered as a very technical- or scientific-oriented way, which I won't deny, but I also try to give space to the uncertainties that make a shot "natural".
+
+Photography is a way to capture the photons at certain spacetime points. My aim is to capture subjects that, in a way, seem unusual or surrealistic, while being only the result of the capture of these photons at a particular place and at a particular time. I therefore try to isolate and highlight these singularities that occurs in my daily life. I try to minimize the introduction of *artificial* photons by not using softwares except from the one inherent to digital photography (demosaicing).
+
+To this aim, I practice film and digital photography. I have a tendency to prefer black and white photographs (which is what we can only reliably capture anyway). I like to play with the *natural* patterns, geometry, contrasts, brightness,..., while minimizing post-processing of the photos.
+
+I see photography as a quest of the unlikely.
+
 # Photo exhibitions
 
 ## 2017
