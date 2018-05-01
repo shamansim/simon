@@ -20,13 +20,13 @@ Here is how I try to consider and practice photography. It may be considered as 
 
 Photography is a way to capture the photons at certain spacetime points. Everything is relative, every moment is unique. My aim is to isolate and highlight these singular moments that occur in my daily life. I try to minimize the introduction of *artificial* photons by not using softwares except from the one inherent to digital photography (demosaicing) and the tools also available with film photography development and print.
 
-To this aim, I practice film and digital photography. I have a tendency to prefer black and white photographs (which is what we can only reliably capture anyway). I like to play with the *natural* patterns, geometry, contrasts, brightness,..., while minimizing post-processing of the photos.
+To this aim, I practice film and digital photography. I have a tendency to prefer black and white photographs (which is what we can only reliably capture anyway). I like to play with the *natural* patterns, geometry, contrasts, brightness, ..., while minimizing post-processing of the photos.
 
 I consider photography as a quest for singularity.
 
 # Equipment
 
-I used to own a Panasonic Lumix FZ200 which I changed to a FZ300. It's a bridge which possesses a 1/2.3 inch 12.1 MP sensor and full frame equivalent lens of 25-600mm with constant aperture of f/2.8. I also use my iPhone 7 when I don't have my camera on me.
+I used to own a Panasonic Lumix FZ200 which I changed to a FZ300. It's a bridge which possesses a 1/2.3 inch 12.1 MP sensor and full frame equivalent lens of 25-600mm with constant aperture of f/2.8. I also use my iPhone 7 when I don't have my camera on me. My next big purchase would most likely be within the Fujifilm family: an X-H1 or X-T2 and emphasizing on prime lenses.
 Regarding film photography, I have a Nikon F60 and I bought and assembled a Gakkenflex TLR from Lomography. My favorite films are from Ilford.
 
 # Photo exhibitions
