@@ -24,6 +24,11 @@ To this aim, I practice film and digital photography. I have a tendency to prefe
 
 I consider photography as a quest for singularity.
 
+# Equipment
+
+I used to own a Panasonic Lumix FZ200 which I changed to a FZ300. It's a bridge which possesses a 1/2.3 inch 12.1 MP sensor and full frame equivalent lens of 25-600mm. I also use my iPhone 7 when I don't have my camera on me.
+Regarding film photography, I have a Nikon F60 and I bought and assembled a Gakkenflex TLR from Lomography. My favorite films are from Ilford.
+
 # Photo exhibitions
 
 ## 2017
