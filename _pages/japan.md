@@ -1,7 +1,7 @@
 ---
 permalink: /japan/
 title: "Japan"
-excerpt: "I have been interested in Japan since childhood"
+excerpt: "I have explored Japan through several travels and did my master Thesis in Japan"
 layout: splash
 header:
   overlay_image: /assets/images/header-japan.jpg
