@@ -1,5 +1,5 @@
 ---
-permalink: /map/
+permalink: /nova/
 title: "Novadiscovery (2013)"
 excerpt: "in silico medicine startup (2 months internship - Lyon, France)"
 layout: single
