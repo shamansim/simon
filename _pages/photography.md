@@ -2,7 +2,7 @@
 permalink: /photography/
 title: "Photography"
 excerpt: "I consider photography as a quest for singularity."
-layout: splash
+layout: single
 header:
   overlay_image: /assets/images/header-photography.jpg
   overlay_filter: 0.5
