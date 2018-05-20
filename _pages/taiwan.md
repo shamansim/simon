@@ -1,7 +1,7 @@
 ---
 permalink: /taiwan/
 title: "Taiwan"
-excerpt: "My companion is from Taiwan. She is also a skilled biologist."
+excerpt: "My life partner is from Taiwan. She is also a skilled biologist."
 layout: splash
 header:
   overlay_image: /assets/images/header-taiwan.jpg
@@ -13,4 +13,3 @@ modified: 2018-05-01T11:47:00
 ---
 
 {% include base_path %}
-
