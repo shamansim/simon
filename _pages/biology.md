@@ -24,7 +24,7 @@ about-phd:
 
 My interest in biology lies in the cell diversity and how the heterogeneity of the cell types makes us who we are.
 
-I am especially focusing on the brain and the role of the shift of cell identity during health and disease. For this, my main tool is single-cell transcriptomics and the tools that help me isolating the cells and confirm the results from the transcriptomics studies.
+I am especially focusing on the brain and the role of the shift of cell identity during health and disease. For this, my main approach is using single-cell transcriptomics as well as the tools that help me isolating the cells and confirm the results from the transcriptomics studies.
 
 From my undergraduate studies I am specialized in bioinformatics and data analysis and now, for my graduate studies I am also emphasizing on the molecular and cell biology tools.
 
