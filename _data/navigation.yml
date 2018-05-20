@@ -2,13 +2,13 @@
 main:
   - title: "CV"
     url: /cv/
-  
+
   - title: "Biology"
     url: /biology/
 
   - title: "Photography"
     url: /photography/
-  
+
   - title: "Music"
     url: /music/
 
@@ -78,3 +78,23 @@ cv:
         url: /photography/
       - title: "Music"
         url: /music/
+
+# photography links
+photography:
+  - title: General
+    children:
+      - title: "Philosophy"
+        url: /photography/#philosophy
+      - title: "Equipment"
+        url: /photography/#equipment
+      - title: "Photo Exhibitions"
+        url: /photography/#photoexhibitions
+
+  - title: Portfolio
+    children:
+      - title: "Landscape"
+        url: /landscape/
+      - title: "Portraits"
+        url: /portraits/
+      - title: "Other"
+        url : /other/

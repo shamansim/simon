@@ -9,12 +9,14 @@ header:
   cta_label: "Visit my Instagram account"
   cta_url: "https://www.instagram.com/shamansim/"
   caption: "All rights reserved"
-modified: 2018-05-19T19:18:00
+sidebar:
+  nav: "photography"
+modified: 2018-05-29T13:30:00
 ---
 
 {% include base_path %}
 
-# Philosophy
+# Philosophy  <a name="philosophy"></a>
 
 Here is how I try to consider and practice photography. It may be considered as a very technical- or scientific-oriented way, which I won't deny, but I also try to give space to the uncertainties that make a shot "natural".
 
@@ -24,14 +26,14 @@ To this aim, I practice film and digital photography. I have a tendency to prefe
 
 I consider photography as a quest for singularity.
 
-# Equipment
+# Equipment <a name="equipment"></a>
 
 I used to own a Panasonic Lumix FZ200 which I changed to a FZ300. It's a bridge which possesses a 1/2.3 inch 12.1 MP sensor and full frame equivalent lens of 25-600mm with constant aperture of f/2.8. I also use my iPhone 7 when I don't have my camera on me. My next big purchase would most likely be within the Fujifilm family: an X-H1 or X-T2 and emphasizing on prime lenses.
 Regarding film photography, I have a Nikon F60 and I bought and assembled a Gakkenflex TLR from Lomography. My favorite films are from Ilford.
 
-# Photo exhibitions
+# Photo exhibitions <a name="photoexhibitions"></a>
 
-## 2017
+## 2017 <a name="photoexhibitions2017"></a>
 
 ![](http://www.mjc-amberieu.org/images/BIENNALE-2017-DIFFUSION---copie.jpg)
 
@@ -41,7 +43,7 @@ __*Location:*__ MJC Ambérieu Maison pour Tous, Place Jules Ferry, 01500 Ambéri
 
 __*Information:*__ [http://www.mjc-amberieu.org/images/flyers-japon.compressed.pdf](http://www.mjc-amberieu.org/images/flyers-japon.compressed.pdf)
 
-## 2016
+## 2016 <a name="photoexhibitions2016"></a>
 
 ![](http://espacelyonjapon.com/assets/images/Nouvelles/Affiche_SimonBesson-Girard-250px.jpg)
 
