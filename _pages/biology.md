@@ -14,7 +14,7 @@ about-phd:
   - image_path: /assets/images/biology-phd.jpg
     alt: "PhD illustration"
     title: "Discover more about my PhD"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    excerpt: ''
     url: "/phd/"
     btn_label: "Read More"
     btn_class: "btn--primary"
