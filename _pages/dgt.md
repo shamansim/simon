@@ -11,9 +11,15 @@ header:
   caption: "Photo credit: [**Population transcriptomics**](http://population-transcriptomics.org/)"
 sidebar:
   nav: "cv"
-modified: 2017-02-04T19:24:00
+modified: 2018-09-29T19:20:00
 ---
 
 {% include base_path %}
 
-Site under construction.
+For my Masters' thesis I built an interactive [tool called "Vizection"](https://github.com/shamansim/Vizection) to qualitatively
+			and quantitatively analyse single-cell transcriptomic datasets. Each step
+			is expected to answer a specific point as for example identify the
+			outliers, define sub-populations or identify the genes contributing the
+			most to these sub-populations. I developped this tool in close collaboration
+			with the molecular biologists preparing the samples before sequencing, thus
+			responding to the needs and taking accout for the technical specificities.
