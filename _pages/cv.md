@@ -14,4 +14,16 @@ modified: 2017-02-04T19:24:00
 
 {% include base_path %}
 
-Site under construction.
+# Summary
+
+
+After starting medicine school, I discovered bioinformatics and changed for a B.Sc. in Biology with a 
+specialization in Biostatistics, Modelling and Bioinformatics. I continued in the
+same direction with the M.Sc. and performed my Masters' internship
+at the RIKEN in Japan where I developped analyses for Single-Cell RNA-Seq data.
+I further came to Munich as a PhD Student in
+the Systems Neuroscience Group of the Institute for Stroke and
+Dementia Research (ISD) where I extend my knowledge of
+the data analysis **in silico** to the biological experimental design
+and the sample preparation **in vitro** and **in vivo** in the context
+of neurological disorders.
