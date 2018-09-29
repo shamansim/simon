@@ -11,9 +11,14 @@ header:
   caption: "Photo credit: [**Novadiscovery**](http://www.novadiscovery.com/)"
 sidebar:
   nav: "cv"
-modified: 2018-05-19T19:43:00
+modified: 2018-09-29T19:11:00
 ---
 
 {% include base_path %}
 
-Site under construction.
+At Novadiscovery, a start-up/company specialized in *in silico* drug-efficiency models,
+one of their main challenge approaching pharmaceutical companies is to convince them of the power
+of *in silico* for such sensitive tasks as clinical trials. I was therefore in charge of gathering
+from the last 20 years literature, proofs of concepts of *in silico* helping and accelerating the
+development of drug design and development.
+
