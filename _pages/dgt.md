@@ -22,4 +22,4 @@ For my Masters' thesis I built an interactive [tool called "Vizection"](https://
 			outliers, define sub-populations or identify the genes contributing the
 			most to these sub-populations. I developped this tool in close collaboration
 			with the molecular biologists preparing the samples before sequencing, thus
-			responding to the needs and taking accout for the technical specificities.
+			responding to the needs and taking account for the technical specificities.
