@@ -1,5 +1,5 @@
 ---
-permalink: /languages/
+permalink: /computational/
 title: "Computational Skills"
 excerpt: "My computational world, the languages I like and use"
 layout: single
