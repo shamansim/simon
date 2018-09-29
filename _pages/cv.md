@@ -24,8 +24,8 @@ at the RIKEN in Japan where I developped analyses for Single-Cell RNA-Seq data.
 I further came to Munich as a PhD Student in
 the Systems Neuroscience Group of the Institute for Stroke and
 Dementia Research (ISD) where I extend my knowledge of
-the data analysis **in silico** to the biological experimental design
-and the sample preparation **in vitro** and **in vivo** in the context
+the data analysis *in silico* to the biological experimental design
+and the sample preparation *in vitro* and *in vivo* in the context
 of neurological disorders.
 
 You can find [here](http://simon.besson-girard.fr/assets/documents/CV-SimonBessonGirard.pdf) a pdf version of my CV.
