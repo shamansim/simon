@@ -6,6 +6,9 @@ main:
   - title: "Biology"
     url: /biology/
 
+  - title: "Blog"
+    url: /blog/
+
   - title: "Photography"
     url: /photography/
 
