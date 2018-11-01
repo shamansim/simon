@@ -6,8 +6,8 @@ date: 2018-11-01T20:30:41+02:00
 header:
   overlay_image: /assets/images/splash-photography.jpg
   overlay_filter: 0.5
-  cta_label: "Back to Photography"
-  cta_url: "simon.besson-girard.fr/photography/"
+  cta_label: "Visit my Instagram account"
+  cta_url: "https://www.instagram.com/shamansim/"
   caption: "All rights reserved"
 sidebar:
   nav: "photography"
@@ -31,4 +31,4 @@ gallery:
     title: "Shiao Gua"
 ---
 
-{% include gallery id="gallery" layout="half" %}
+{% include gallery id="gallery" class="full" layout="half" %}
