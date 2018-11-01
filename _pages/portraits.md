@@ -32,6 +32,6 @@ gallery:
     title: "Shiao Gua"
 ---
 
-{% include gallery id="gallery" layout="half" %}
+{% include gallery id="gallery" %}
 
-{% include gallery id="gallery2" layout="half" %}
+{% include gallery id="gallery2" %}
