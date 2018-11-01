@@ -25,10 +25,6 @@ gallery:
     image_path: /assets/images/SimonBessonGirard-IceCream.png
     alt: "Ice cream"
     title: "Ice cream"
- - url: /assets/images/SimonBessonGirard-ShiaoGua.png
-    image_path: /assets/images/SimonBessonGirard-ShiaoGua.png
-    alt: "Shiao Gua"
-    title: "Shiao Gua"
 ---
 
 {% include gallery %}
