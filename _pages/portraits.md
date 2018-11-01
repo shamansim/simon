@@ -21,7 +21,6 @@ gallery:
     image_path: /assets/images/SimonBessonGirard-Connection.png
     alt: "Connection"
     title: "Connection"
- gallery2:
   - url: /assets/images/SimonBessonGirard-IceCream.png
     image_path: /assets/images/SimonBessonGirard-IceCream.png
     alt: "Ice cream"
