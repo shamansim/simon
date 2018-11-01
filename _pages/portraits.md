@@ -21,10 +21,17 @@ gallery:
     image_path: /assets/images/SimonBessonGirard-Connection.png
     alt: "Connection"
     title: "Connection"
+ gallery2:
   - url: /assets/images/SimonBessonGirard-IceCream.png
     image_path: /assets/images/SimonBessonGirard-IceCream.png
     alt: "Ice cream"
     title: "Ice cream"
+ - url: /assets/images/SimonBessonGirard-ShiaoGua.png
+    image_path: /assets/images/SimonBessonGirard-ShiaoGua.png
+    alt: "Shiao Gua"
+    title: "Shiao Gua"
 ---
 
-{% include gallery %}
+{% include gallery id="gallery" layout="half" %}
+
+{% include gallery id="gallery2" layout="half" %}
