@@ -27,4 +27,4 @@ gallery:
     title: "Ice cream"
 ---
 
-{% include gallery layout="half" %}
+{% include gallery id="gallery" class="full" layout="half" %}
