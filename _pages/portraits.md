@@ -6,8 +6,8 @@ date: 2018-11-01T20:30:41+02:00
 header:
   overlay_image: /assets/images/splash-photography.jpg
   overlay_filter: 0.5
-  cta_label: "Visit my Instagram account"
-  cta_url: "https://www.instagram.com/shamansim/"
+  cta_label: "Back to Photography"
+  cta_url: "simon.besson-girard.fr/photography/"
   caption: "All rights reserved"
 sidebar:
   nav: "photography"
@@ -25,6 +25,10 @@ gallery:
     image_path: /assets/images/SimonBessonGirard-IceCream.png
     alt: "Ice cream"
     title: "Ice cream"
+ - url: /assets/images/SimonBessonGirard-ShiaoGua.png
+    image_path: /assets/images/SimonBessonGirard-ShiaoGua.png
+    alt: "Shiao Gua"
+    title: "Shiao Gua"
 ---
 
-{% include gallery id="gallery" class="full" layout="half" %}
+{% include gallery id="gallery" layout="half" %}
