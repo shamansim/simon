@@ -12,19 +12,25 @@ header:
 sidebar:
   nav: "photography"
 modified: 2018-11-01T20:42:00
-gallery:
+gallery1:
   - url: assets/images/SimonBessonGirard-Park.png
     image_path: assets/images/SimonBessonGirard-Park.png
     alt: "Park"
     title: "Park"
+gallery2:
   - url: /assets/images/SimonBessonGirard-X.png
     image_path: /assets/images/SimonBessonGirard-X.png
     alt: "X"
     title: "X"
+gallery3:
   - url: /assets/images/SimonBessonGirard-Bicycle.png
     image_path: /assets/images/SimonBessonGirard-Bicycle.png
     alt: "Bicycle"
     title: "Bicycle"
 ---
 
-{% include gallery id="gallery" %}
+{% include gallery id="gallery1" %}
+
+{% include gallery id="gallery2" %}
+
+{% include gallery id="gallery3" %}
