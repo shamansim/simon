@@ -25,6 +25,21 @@ gallery:
     image_path: /assets/images/SimonBessonGirard-IceCream.png
     alt: "Ice cream"
     title: "Ice cream"
+gallery2:
+  - url: assets/images/SimonBessonGirard-Calm.png
+    image_path: assets/images/SimonBessonGirard-Calm.png
+    alt: "Calm"
+    title: "Calm"
+  - url: /assets/images/SimonBessonGirard-Connection.png
+    image_path: /assets/images/SimonBessonGirard-Connection.png
+    alt: "Connection"
+    title: "Connection"
+  - url: /assets/images/SimonBessonGirard-IceCream.png
+    image_path: /assets/images/SimonBessonGirard-IceCream.png
+    alt: "Ice cream"
+    title: "Ice cream"
 ---
 
 {% include gallery id="gallery" %}
+
+{% include gallery id="gallery2" %}
