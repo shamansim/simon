@@ -25,6 +25,21 @@ gallery:
     image_path: /assets/images/SimonBessonGirard-ShiaoGua.png
     alt: "Shiao Gua"
     title: "Shiao Gua"
+gallery2:
+  - url: assets/images/SimonBessonGirard-Bubble.png
+    image_path: assets/images/SimonBessonGirard-Bubble.png
+    alt: "Bubble"
+    title: "Bubble"
+  - url: /assets/images/SimonBessonGirard-Roof.png
+    image_path: /assets/images/SimonBessonGirard-Roof.png
+    alt: "Roof"
+    title: "Roof"
+  - url: /assets/images/SimonBessonGirard-Smile.png
+    image_path: /assets/images/SimonBessonGirard-Smile.png
+    alt: "Smile"
+    title: "Smile"
 ---
 
 {% include gallery id="gallery" %}
+
+{% include gallery id="gallery2" %}

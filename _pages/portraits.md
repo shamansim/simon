@@ -25,6 +25,17 @@ gallery:
     image_path: /assets/images/SimonBessonGirard-IceCream.png
     alt: "Ice cream"
     title: "Ice cream"
+gallery2:
+  - url: assets/images/SimonBessonGirard-Smile.png
+    image_path: assets/images/SimonBessonGirard-Smile.png
+    alt: "Smile"
+    title: "Smile"
+  - url: /assets/images/SimonBessonGirard-Bubble.png
+    image_path: /assets/images/SimonBessonGirard-Bubble.png
+    alt: "Bubble"
+    title: "Bubble"
 ---
 
 {% include gallery id="gallery" %}
+
+{% include gallery id="gallery2" %}

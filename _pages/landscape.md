@@ -13,17 +13,18 @@ sidebar:
   nav: "photography"
 modified: 2018-11-01T20:42:00
 gallery:
-  - url: assets/images/SimonBessonGirard-Calm.png
-    image_path: assets/images/SimonBessonGirard-Calm.png
-    alt: "Calm"
-    title: "Calm"
-  - url: /assets/images/SimonBessonGirard-Connection.png
-    image_path: /assets/images/SimonBessonGirard-Connection.png
-    alt: "Connection"
-    title: "Connection"
-  - url: /assets/images/SimonBessonGirard-IceCream.png
-    image_path: /assets/images/SimonBessonGirard-IceCream.png
-    alt: "Ice cream"
-    title: "Ice cream"
+  - url: assets/images/SimonBessonGirard-Park.png
+    image_path: assets/images/SimonBessonGirard-Park.png
+    alt: "Park"
+    title: "Park"
+  - url: /assets/images/SimonBessonGirard-X.png
+    image_path: /assets/images/SimonBessonGirard-X.png
+    alt: "X"
+    title: "X"
+  - url: /assets/images/SimonBessonGirard-Bicycle.png
+    image_path: /assets/images/SimonBessonGirard-Bicycle.png
+    alt: "Bicycle"
+    title: "Bicycle"
 ---
 
+{% include gallery id="gallery" %}
