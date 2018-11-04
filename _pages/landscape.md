@@ -1,7 +1,7 @@
 ---
-title: "Portfolio: Portraits"
+title: "Portfolio: Landscape"
 layout: splash
-permalink: /portraits/
+permalink: /landscape/
 date: 2018-11-01T20:30:41+02:00
 header:
   overlay_image: /assets/images/splash-photography.jpg
@@ -27,4 +27,3 @@ gallery:
     title: "Ice cream"
 ---
 
-{% include gallery id="gallery" %}
