@@ -40,6 +40,6 @@ gallery2:
     title: "Ice cream"
 ---
 
-{% include gallery id="gallery" %}
+{% include gallery id="gallery" layout="half" %}
 
-{% include gallery id="gallery2" %}
+{% include gallery id="gallery2" layout="half" %}
