@@ -92,7 +92,7 @@ Once a task arrives into your Inbox, the critical point is to characterize the t
 - Which project? (NEXT or PROJECTS or the three others)
 - Which labels? (mostly among @ts @tl @eh @el)
 - Which deadline? (you can specify also a time)
-- Which Reminder? l
+- Which Reminder?
 - Which priority level?
 
 At the beginning most of my tasks were at priority 1 or 2 and it was very subjective and variable on my mood or level of stress - which in the end was not a helpful indicator of priority. After a while, I came up with these levels of priority:
