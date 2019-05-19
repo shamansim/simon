@@ -102,6 +102,10 @@ At the beginning most of my tasks were at priority 1 or 2 and it was very subjec
 3. Think about it: the tasks that are concerning and taking space in my mind but not priority 1 or 2
 4. Todo: the rest
 
+*Refreshing your task list*
+
+Once per week, on Monday, I do my 'GTD Review', where I basically empty my INBOX (Todoist, Evernote, Emails).
+
 *My favorite features of Todoist*
 
 - Calendar synchronisation;
