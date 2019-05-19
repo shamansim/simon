@@ -89,6 +89,7 @@ Second is by using the email address to send a new task directly into your Todoi
 
 Once a task arrives into your Inbox, the critical point is to characterize the task:
 
+- Rephrase it in a way that makes the task easy to start. I like to start with a precise verb (not just do, more like search, write, read, rearrange, etc.)
 - Which project? (NEXT or PROJECTS or the three others)
 - Which labels? (mostly among @ts @tl @eh @el)
 - Which deadline? (you can specify also a time)
@@ -104,7 +105,7 @@ At the beginning most of my tasks were at priority 1 or 2 and it was very subjec
 
 *Refreshing your task list*
 
-Once per week, on Monday, I do my 'GTD Review', where I basically empty my INBOX (Todoist, Evernote, Emails).
+Once per week, on Monday, I do my 'GTD Review', where I basically empty my INBOX (Todoist, Evernote, Emails) but also double-checking if some tasks can be deleted because not necessary anymore.
 
 *My favorite features of Todoist*
 
