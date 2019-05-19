@@ -46,22 +46,22 @@ In PROJECTS I have two types of projects: some that always stay in the list and 
 
 For all other more ‘stand-alone’ tasks, I put them into the NEXT section of the projects. They are then divided by categories based on the different type of tasks:
 
-    Speaking
-    Writing
-    Reading
-    Listen-Watch
+- Speaking
+- Writing
+- Reading
+- Listen-Watch
 
 Still in this NEXT section, I also have 3 other categories:
 
-    Personal
-    ISD: my institute
-    LMU-GSN: my university and graduate school
+- Personal
+- ISD: my institute
+- LMU-GSN: my university and graduate school
 
 Along with these two main categories of projects, I have 3 other stacks of tasks:
 
-    Recurring: where I put all the tasks that are schedule for a repetition in time
-    Future: for the tasks that anyway cannot be achieved before a specific date
-    SomedayMaybe: where I put the things I would like to do or the ideas of thing to do but for which I do not have time to allocate yet
+- Recurring: where I put all the tasks that are schedule for a repetition in time
+- Future: for the tasks that anyway cannot be achieved before a specific date
+- SomedayMaybe: where I put the things I would like to do or the ideas of thing to do but for which I do not have time to allocate yet
 
 *Refining the task using labels*
 
