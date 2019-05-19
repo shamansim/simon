@@ -87,7 +87,7 @@ Second is by using the email address to send a new task directly into your Todoi
 
 *Identify your tasks*
 
-Once a task arrives into your Inbox, the critical point is to caracterize the task
+Once a task arrives into your Inbox, the critical point is to characterize the task:
 
 - Which project? (NEXT or PROJECTS or the three others)
 - Which labels? (mostly among @ts @tl @eh @el)
