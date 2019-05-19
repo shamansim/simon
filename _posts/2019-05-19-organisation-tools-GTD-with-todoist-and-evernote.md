@@ -97,10 +97,10 @@ Once a task arrives into your Inbox, the critical point is to caracterize the ta
 
 At the beginning most of my tasks were at priority 1 or 2 and it was very subjective and variable on my mood or level of stress - which in the end was not a helpful indicator of priority. After a while, I came up with these levels of priority:
 
-1 - Now or never: typically tasks that if not done on that date, I won't have any other occasions (deadlines or meetings usually)
-2 - To be done ASAP (as soon as possible): tasks that are ok to not be done on that day but need to be addressed quickly
-3 - Think about it: the tasks that are concerning and taking space in my mind but not priority 1 or 2)
-4 - Todo: the rest
+1. Now or never: typically tasks that if not done on that date, I won't have any other occasions (deadlines or meetings usually)
+2. To be done ASAP (as soon as possible): tasks that are ok to not be done on that day but need to be addressed quickly
+3. Think about it: the tasks that are concerning and taking space in my mind but not priority 1 or 2)
+4. Todo: the rest
 
 *My favorite features of Todoist*
 
